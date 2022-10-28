@@ -1,11 +1,18 @@
 body{
     background-size: cover;
+    background-position: center;
 }
 
-button{
-    background-color: aqua;
-    font-size: 20;
+a { 
+  font-size: 20px !important; 
+  width: 400px; 
+  border-radius: 30px !important; 
+  background-color: white;
+  color: black; 
+}
+
+h1{
+    font-size: 40px;
     font-weight: bold;
-    border-radius: 10px;
     color: black;
 }
